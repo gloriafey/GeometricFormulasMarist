@@ -12,6 +12,17 @@
 		1F43BD4D2031DCD80032AB84 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F43BD4B2031DCD80032AB84 /* Main.storyboard */; };
 		1F43BD4F2031DCD80032AB84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F43BD4E2031DCD80032AB84 /* Assets.xcassets */; };
 		1F43BD522031DCD80032AB84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F43BD502031DCD80032AB84 /* LaunchScreen.storyboard */; };
+		1F85C930203B575E0064664C /* RightPrismViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C92F203B575E0064664C /* RightPrismViewController.swift */; };
+		1F85C934203B58390064664C /* RightConeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C933203B58390064664C /* RightConeViewController.swift */; };
+		1F85C936203B88600064664C /* ConeVolumeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C935203B88600064664C /* ConeVolumeViewController.swift */; };
+		1F85C938203B89420064664C /* equation2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C937203B89420064664C /* equation2View.swift */; };
+		1F85C93A203B8A9C0064664C /* resultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C939203B8A9C0064664C /* resultView.swift */; };
+		1F85C93C203B8AE90064664C /* SphereViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C93B203B8AE90064664C /* SphereViewController.swift */; };
+		1F85C93E203BA4CF0064664C /* CylinderVolumeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C93D203BA4CF0064664C /* CylinderVolumeViewController.swift */; };
+		1F85C940203BA9380064664C /* FinalResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C93F203BA9380064664C /* FinalResultsViewController.swift */; };
+		1F85C942203BA9A70064664C /* PyramidSurfaceAreaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C941203BA9A60064664C /* PyramidSurfaceAreaViewController.swift */; };
+		1F85C944203BAC3D0064664C /* PyramidVolumeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C943203BAC3D0064664C /* PyramidVolumeViewController.swift */; };
+		1F85C946203BAF0F0064664C /* SphereVolumeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F85C945203BAF0F0064664C /* SphereVolumeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		1F43BD4E2031DCD80032AB84 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F43BD512031DCD80032AB84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F43BD532031DCD80032AB84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F85C92F203B575E0064664C /* RightPrismViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RightPrismViewController.swift; sourceTree = "<group>"; };
+		1F85C933203B58390064664C /* RightConeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RightConeViewController.swift; sourceTree = "<group>"; };
+		1F85C935203B88600064664C /* ConeVolumeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConeVolumeViewController.swift; sourceTree = "<group>"; };
+		1F85C937203B89420064664C /* equation2View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = equation2View.swift; sourceTree = "<group>"; };
+		1F85C939203B8A9C0064664C /* resultView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = resultView.swift; sourceTree = "<group>"; };
+		1F85C93B203B8AE90064664C /* SphereViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SphereViewController.swift; sourceTree = "<group>"; };
+		1F85C93D203BA4CF0064664C /* CylinderVolumeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CylinderVolumeViewController.swift; sourceTree = "<group>"; };
+		1F85C93F203BA9380064664C /* FinalResultsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinalResultsViewController.swift; sourceTree = "<group>"; };
+		1F85C941203BA9A60064664C /* PyramidSurfaceAreaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PyramidSurfaceAreaViewController.swift; sourceTree = "<group>"; };
+		1F85C943203BAC3D0064664C /* PyramidVolumeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PyramidVolumeViewController.swift; sourceTree = "<group>"; };
+		1F85C945203BAF0F0064664C /* SphereVolumeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SphereVolumeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +79,17 @@
 				1F43BD472031DCD80032AB84 /* AppDelegate.swift */,
 				1F43BD492031DCD80032AB84 /* ViewController.swift */,
 				1F43BD4B2031DCD80032AB84 /* Main.storyboard */,
+				1F85C937203B89420064664C /* equation2View.swift */,
+				1F85C939203B8A9C0064664C /* resultView.swift */,
+				1F85C935203B88600064664C /* ConeVolumeViewController.swift */,
+				1F85C943203BAC3D0064664C /* PyramidVolumeViewController.swift */,
+				1F85C941203BA9A60064664C /* PyramidSurfaceAreaViewController.swift */,
+				1F85C93D203BA4CF0064664C /* CylinderVolumeViewController.swift */,
+				1F85C93F203BA9380064664C /* FinalResultsViewController.swift */,
+				1F85C945203BAF0F0064664C /* SphereVolumeViewController.swift */,
+				1F85C93B203B8AE90064664C /* SphereViewController.swift */,
+				1F85C933203B58390064664C /* RightConeViewController.swift */,
+				1F85C92F203B575E0064664C /* RightPrismViewController.swift */,
 				1F43BD4E2031DCD80032AB84 /* Assets.xcassets */,
 				1F43BD502031DCD80032AB84 /* LaunchScreen.storyboard */,
 				1F43BD532031DCD80032AB84 /* Info.plist */,
@@ -136,8 +169,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F85C934203B58390064664C /* RightConeViewController.swift in Sources */,
+				1F85C93E203BA4CF0064664C /* CylinderVolumeViewController.swift in Sources */,
+				1F85C930203B575E0064664C /* RightPrismViewController.swift in Sources */,
+				1F85C936203B88600064664C /* ConeVolumeViewController.swift in Sources */,
+				1F85C938203B89420064664C /* equation2View.swift in Sources */,
+				1F85C93A203B8A9C0064664C /* resultView.swift in Sources */,
 				1F43BD4A2031DCD80032AB84 /* ViewController.swift in Sources */,
+				1F85C93C203B8AE90064664C /* SphereViewController.swift in Sources */,
+				1F85C940203BA9380064664C /* FinalResultsViewController.swift in Sources */,
+				1F85C946203BAF0F0064664C /* SphereVolumeViewController.swift in Sources */,
 				1F43BD482031DCD80032AB84 /* AppDelegate.swift in Sources */,
+				1F85C942203BA9A70064664C /* PyramidSurfaceAreaViewController.swift in Sources */,
+				1F85C944203BAC3D0064664C /* PyramidVolumeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
